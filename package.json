@@ -1,6 +1,6 @@
 {
   "name": "chunkify-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Combines multiple chunks of a stream to arrays of chunks",
   "main": "index.js",
   "scripts": {
